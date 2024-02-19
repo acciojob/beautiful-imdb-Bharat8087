@@ -1,2 +1,19 @@
+.body{ display:normal;
+	  content:center;
+	  height:100vh;
+	
+}
+.moviePic {
+    height: 300px;
+    width: 300;
+    opacity: 1;
+}
 
-/* Your CSS Code here. */
+.movieDetail {
+    position: absolute;
+    top: 50%;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+    
+}
